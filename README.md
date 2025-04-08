@@ -1,3 +1,3 @@
 mtduck
 ===========
-Something that will probably make me broke
+Something that will probably broke me from inside.
